@@ -1,0 +1,5 @@
+Name	Salary	Department
+Mohsin	45000	Biometric
+Munawar	65000	MT
+Arbab	45000	Pharma
+Khurram	68000	Development
